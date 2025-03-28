@@ -12,7 +12,20 @@
 
 ###
 
-<p align="left">I'm a <b>Flutter Developer</b> with experience in mobile development from design to deployment. I specialize in building cross-platform applications and have expertise in:<br>- Mobile and web-based APIs<br>- Hosting and databases<br>- Software architecture and best practices<br>- Team and client management<br><br>## 🔥 Skills & Interests<br>- <b>Flutter & Dart</b> (Mobile & Desktop Development)<br>- <b>State Management</b> (BLoC, Provider, etc.)<br>- <b>Testing</b> (Unit, Widget, Integration)<br>- <b>Networking Concepts</b> (OSPF, VPN, IPsec, SNMP)<br>- <b>CI/CD & DevOps</b> (Jenkins, Git, Jira)<br>- <b>Software Design Patterns</b> (MVC, MVVM, Clean Architecture, SOLID)<br>- <b>Rust & C# Development</b></p>
+<p align="left">
+I'm a <b>Flutter</b>/<b>Android Developer</b> with experience in mobile development from design to deployment.
+<br> I specialize in building cross-platform applications and have expertise in:
+<br>- Mobile Application & web-based APIs
+<br>- AWS Hosting and databases
+<br>- Software architecture and best practices
+<br>- Team and client management<br>
+<br>## 🔥 Skills & Interests
+<br>- <b>Flutter & Dart</b> (Mobile & Web Development)
+<br>- <b>State Management</b> (Riverpod & Hooks, BLoC, Provider, MobX, GetIt etc.)
+<br>- <b>Testing</b> (Unit, Widget, Integration)
+<br>- <b>CI/CD & DevOps</b> (Git, Jira)
+<br>- <b>Software Design Patterns</b> (MVC, MVVM, Clean Architecture, SOLID)<br>
+</p>
 
 
 ###
