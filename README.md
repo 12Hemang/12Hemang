@@ -68,7 +68,7 @@ I specialize in building cross-platform applications and have expertise in:
 </div>
 
 ---
-
+<!-- 
 ### 📊 My Stats
 
 <div align="left">
@@ -76,3 +76,5 @@ I specialize in building cross-platform applications and have expertise in:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=12hemang&layout=compact&langs_count=5&theme=dracula&hide_border=true" height="150" />
   <img src="https://github-profile-trophy.vercel.app?username=12hemang&theme=dracula&column=3&row=1" height="150" />
 </div>
+-->
+
